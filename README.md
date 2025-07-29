@@ -1,8 +1,8 @@
-# UNIBA Dataset
+# UNIBA HAR Dataset
 
 This repository contains the **UNIBA Dataset**, introduced in the following publication:
 
-> **Vincenzo Gattulli, Donato Impedovo, Antonio Piccinno, Giuseppe Pirlo **, *UNIBA Dataset: Smartphone-Based Human Activity Recognition for Fall Risk Detection*.  
+> **Vincenzo Gattulli, Donato Impedovo, Antonio Piccinno, Giuseppe Pirlo **, *Human Activity Recognition Using Smartphone Sensors: Focusing on Fall Detection with the UNIBA Dataset*.  
 > Published in **Springer SN Computer Science** (2025).  
 > DOI: [10.1007/s42979-025-04187-8](https://doi.org/10.1007/s42979-025-04187-8)
 
