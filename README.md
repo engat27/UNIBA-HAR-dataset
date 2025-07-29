@@ -57,4 +57,6 @@ Unlike many HAR datasets that rely on IMUs placed on various body parts, UNIBA f
 ## 📚 Citation
 
 If you use this dataset, please cite the following work:
+Gattulli, V., Impedovo, D., Piccinno, A. et al. Human Activity Recognition Using Smartphone Sensors: Focusing on Fall Detection with the UNIBA Dataset. SN COMPUT. SCI. 6, 640 (2025). https://doi.org/10.1007/s42979-025-04187-8
+
 
